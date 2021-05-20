@@ -1,0 +1,15 @@
+{
+  "name": "getdmvapts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getapts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.8",
+    "nexmo": "^2.9.1"
+  }
+}
